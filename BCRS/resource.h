@@ -1,0 +1,120 @@
+﻿//{{NO_DEPENDENCIES}}
+// Microsoft Visual C++ 生成的包含文件。
+// 供 BCRS.rc 使用
+//
+#define IDD_BCRS_DIALOG                 102
+#define IDR_MAINFRAME                   128
+#define IDR_MENU                        129
+#define IDD_CAM_PARAM                   131
+#define IDD_INTERNAL_MATRIX             132
+#define IDD_EXTERNAL_MATRIX             133
+#define IDD_DISTORTION_MATRIX           134
+#define IDD_DISPLAY_RANGE               135
+#define IDC_EDT_POSX                    1000
+#define IDC_EDT_POSY                    1001
+#define IDC_EDT_POSZ                    1002
+#define IDC_EDT_AGL						1003
+#define IDC_BTN_ZERO                    1004
+#define IDC_CHK_CAM1                    1005
+#define IDC_CHK_CAM2                    1006
+#define IDC_EDT_CAPTURE_COUNT1          1007
+#define IDC_EDT_CAPTURE_COUNT2          1008
+#define IDC_EDT_LOSS_COUNT1             1009
+#define IDC_EDT_LOSS_COUNT2             1010
+#define IDC_BTN_INITCAM                 1011
+#define IDC_BTN_CAPTURE                 1012
+#define IDC_BTN_SAVEIMG                 1013
+#define IDC_BTN_MEASURE                 1014
+#define IDC_BTN_SENDDATA                1015
+#define IDC_BTN_CLOSECAM                1016
+#define IDC_DISPLAY1                    1017
+#define IDC_DISPLAY2                    1018
+#define IDC_EDT_EXPOSURE                1019
+#define IDC_EDT_GAIN                    1020
+#define IDC_EDT_FPS                     1021
+#define IDC_EDT_INT_CAM1_11             1022
+#define IDC_EDT_INT_CAM1_12             1023
+#define IDC_EDT_INT_CAM1_13             1024
+#define IDC_EDT_INT_CAM1_21             1025
+#define IDC_EDT_INT_CAM1_22             1026
+#define IDC_EDT_INT_CAM1_23             1027
+#define IDC_EDT_INT_CAM1_31             1028
+#define IDC_EDT_INT_CAM1_32             1029
+#define IDC_EDT_INT_CAM1_33             1030
+#define IDC_EDT_INT_CAM2_11             1031
+#define IDC_EDT_INT_CAM2_12             1032
+#define IDC_EDT_INT_CAM2_13             1033
+#define IDC_EDT_INT_CAM2_21             1034
+#define IDC_EDT_INT_CAM2_22             1035
+#define IDC_EDT_INT_CAM2_23             1036
+#define IDC_EDT_INT_CAM2_31             1037
+#define IDC_EDT_INT_CAM2_32             1038
+#define IDC_EDT_INT_CAM2_33             1039
+#define IDC_EDT_EXT_ROT_11              1040
+#define IDC_EDT_EXT_ROT_12              1041
+#define IDC_EDT_EXT_ROT_13              1042
+#define IDC_EDT_EXT_ROT_21              1043
+#define IDC_EDT_EXT_ROT_22              1044
+#define IDC_EDT_EXT_ROT_23              1045
+#define IDC_EDT_EXT_ROT_31              1046
+#define IDC_EDT_EXT_ROT_32              1047
+#define IDC_EDT_EXT_ROT_33              1048
+#define IDC_EDT_EXT_TRAN_1              1049
+#define IDC_EDT_EXT_TRAN_2              1050
+#define IDC_EDT_EXT_TRAN_3              1051
+#define IDC_EDT_DIS_CAM1_K1             1052
+#define IDC_EDT_DIS_CAM1_K2             1053
+#define IDC_EDT_DIS_CAM1_P1             1054
+#define IDC_EDT_DIS_CAM1_P2             1055
+#define IDC_EDT_DIS_CAM2_K1             1056
+#define IDC_EDT_DIS_CAM2_K2             1057
+#define IDC_EDT_DIS_CAM2_P1             1058
+#define IDC_EDT_DIS_CAM2_P2             1059
+#define IDC_EDT_ROI_CAM1_L              1060
+#define IDC_EDT_ROI_CAM1_T              1061
+#define IDC_EDT_ROI_CAM1_W              1062
+#define IDC_EDT_ROI_CAM1_H              1063
+#define IDC_EDT_ROI_CAM2_L              1064
+#define IDC_EDT_ROI_CAM2_T              1065
+#define IDC_EDT_ROI_CAM2_W              1066
+#define IDC_EDT_ROI_CAM2_H              1067
+#define ID_32771                        32771
+#define ID_32772                        32772
+#define ID_32773                        32773
+#define ID_32774                        32774
+#define ID_32775                        32775
+#define ID_32776                        32776
+#define ID_32777                        32777
+#define ID_32778                        32778
+#define ID_32779                        32779
+#define ID_32780                        32780
+#define ID_32781                        32781
+#define ID_32782                        32782
+#define ID_32783                        32783
+#define ID_32784                        32784
+#define ID_32785                        32785
+#define ID_MENU_CAM_PARAM               32786
+#define ID_MENU_INTERNAL_MATRIX         32787
+#define ID_MENU_EXTERNAL_MATRIX         32788
+#define ID_MENU_DISTORTION_MATRIX       32789
+#define ID_MENU_CONT                    32790
+#define ID_MENU_SOFT                    32791
+#define ID_MENU_HARD                    32792
+#define ID_MENU_SAVE2JPG                32793
+#define ID_MENU_SAVE2PNG                32794
+#define ID_MENU_SAVE2BMP                32795
+#define ID_MENU_SAVE2TIFF               32796
+#define ID_MENU_DISPLAY_SINGLE          32797
+#define ID_MENU_DISPLAY_DOUBLE          32798
+#define ID_MENU_DISPLAY_RANGE           32799
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        141
+#define _APS_NEXT_COMMAND_VALUE         32800
+#define _APS_NEXT_CONTROL_VALUE         1068
+#define _APS_NEXT_SYMED_VALUE           101
+#endif
+#endif
